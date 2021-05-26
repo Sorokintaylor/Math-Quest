@@ -1,0 +1,149 @@
+body{background-color:black;
+}
+.header{
+    text-align:center;
+  Background-image: url("https://i.pinimg.com/originals/e4/8a/12/e48a12c5fcc1f846c60efe086c11009a.gif");
+}
+.get-ready{
+color:white;
+     text-align:center;
+    border:double red;
+        margin:15px;
+        padding:15px;
+      font-family: 'Goldman', cursive;
+  
+}
+p{   text-align:center;
+}
+.Q1{
+color:white;
+     text-align:center;
+    border:outset gold;
+        margin:25px;
+        padding:15px;
+      font-family: 'Goldman', cursive;
+    display:none;
+  background-color:black;
+}
+.q1{
+     display: flex;
+    margin: 10px;
+    padding: 5px;
+    justify-content: space-around;
+    display:none;
+  
+}
+.aq1{
+color:Gold;
+     text-align:center;
+    border:inset red;
+background-color:black;
+   font-family: 'Xanh Mono', monospac;
+    padding:15px;
+
+}
+.wrong{
+color:Gold;
+     text-align:center;
+    border:inset red;
+        font-family: 'Xanh Mono', monospac;
+ padding:15px;
+  background-color:black;
+
+}
+.Q2{
+color:red;
+     text-align:center;
+    border:outset grey;
+        margin:25px;
+        padding:15px;
+      font-family: 'Goldman', cursive;
+    display:none;
+  background-color:black;
+}
+.q2{
+   display: flex;
+    margin: 10px;
+    padding: 5px;
+    justify-content: space-around;
+    display:none;
+}
+.aq2{
+color:Gold;
+     text-align:center;
+    border:inset red;
+background-color:black;
+   font-family: 'Xanh Mono', monospac;
+    padding:15px;
+}
+
+.pint1{
+     text-align:center;
+    border:inset blue;
+background-color:gold;
+   font-family: 'Big Shoulders Inline Text', cursive;
+    padding:15px;
+   display:none;
+}
+.hint1{
+display:none;
+}
+.Q3{
+color:white;
+     text-align:center;
+    border:outset grey;
+        margin:25px;
+        padding:15px;
+      font-family: 'Goldman', cursive;
+    display:none;
+  background-color:red;
+}
+.aq3{
+color:Gold;
+     text-align:center;
+    border:inset red;
+background-color:black;
+   font-family: 'Xanh Mono', monospac;
+    padding:15px;
+}
+.q3{
+display: flex;
+    margin: 10px;
+    padding: 5px;
+    justify-content: space-around;
+   display:none;
+}
+.Q4{
+color:black;
+     text-align:center;
+    border:inset red;
+        margin:25px;
+        padding:15px;
+      font-family: 'Goldman', cursive;
+    display:none;
+  background-color:magenta;
+}
+.aq4{
+color:Gold;
+     text-align:center;
+    border:inset red;
+background-color:black;
+   font-family: 'Xanh Mono', monospac;
+    padding:15px;
+}
+.q4{
+display: flex;
+    margin: 10px;
+    padding: 5px;
+    justify-content: space-around;
+    display:none;
+}
+.hint2{
+display:none;
+}
+.pint2{
+display:none;
+}
+.winner{
+display:none;
+}
